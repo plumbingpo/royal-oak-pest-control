@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://royaloakpestcontrolco.com/sitemap.xml
